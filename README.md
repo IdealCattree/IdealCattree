@@ -21,4 +21,4 @@
 带上相机，和喜欢的人一起环游世界
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IdealCatTree)](https://github.com/anuraghazra/github-readme-stats?theme=THEME_NAME highcontrast)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IdealCatTree?theme=THEME_NAME tokyonight)
