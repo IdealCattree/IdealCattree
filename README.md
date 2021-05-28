@@ -1,16 +1,18 @@
-### Hi there 👋
+### Ideal CatTree 👋
 
-<!--
-**IdealCattree/IdealCattree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**这里是 @猫的树~**
 
-Here are some ideas to get you started:
+👋 Hi, I’m @猫的树
+👀 I’m interested in vue
+🌱 I’m currently learning Applets
+📫 How to reach me cjhaonana@163.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 about me ...
+
+00后、编程、摄影爱好者 喜欢白日做梦
+
+热爱钻研与计算机有关的一切
+
+人生梦想
+
+带上相机，和喜欢的人一起环游世界
